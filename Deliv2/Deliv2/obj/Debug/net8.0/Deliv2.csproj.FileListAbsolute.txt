@@ -1,0 +1,15 @@
+C:\Users\16167\source\repos\Deliv2\Deliv2\bin\Debug\net8.0\Deliv2.exe
+C:\Users\16167\source\repos\Deliv2\Deliv2\bin\Debug\net8.0\Deliv2.deps.json
+C:\Users\16167\source\repos\Deliv2\Deliv2\bin\Debug\net8.0\Deliv2.runtimeconfig.json
+C:\Users\16167\source\repos\Deliv2\Deliv2\bin\Debug\net8.0\Deliv2.dll
+C:\Users\16167\source\repos\Deliv2\Deliv2\bin\Debug\net8.0\Deliv2.pdb
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\Deliv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\Deliv2.AssemblyInfoInputs.cache
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\Deliv2.AssemblyInfo.cs
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\Deliv2.csproj.CoreCompileInputs.cache
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\Deliv2.sourcelink.json
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\Deliv2.dll
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\refint\Deliv2.dll
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\Deliv2.pdb
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\Deliv2.genruntimeconfig.cache
+C:\Users\16167\source\repos\Deliv2\Deliv2\obj\Debug\net8.0\ref\Deliv2.dll
